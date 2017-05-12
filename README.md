@@ -1,15 +1,13 @@
 # Curriculum Vitae
-
-<div align="center">
-  <a href="https://github.com/svanegas/curriculum_vitae/raw/master/resume.pdf">
-    <img alt="Download resume PDF" src="https://img.shields.io/badge/resume-pdf-green.svg" />
-  </a>
-</div>
+<a href="https://github.com/svanegas/curriculum_vitae/raw/master/resume.pdf">
+  <img alt="Download resume PDF" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+</a>
 
 ---
 
 Here you'll find my résumé source code. Every old design version will be archived.
-You can see [PDF](https://github.com/svanegas/curriculum_vitae/raw/master/resume.pdf)
+
+You can download the [PDF](https://github.com/svanegas/curriculum_vitae/raw/master/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
@@ -28,4 +26,4 @@ This should result in the creation of ``resume.pdf``
 
 ### Templates used
 - **[Version 1](https://www.latextemplates.com/template/medium-length-graduate-cv)**
-- **[Vesion 2](https://github.com/posquit0/Awesome-CV) (current)**
+- **[Version 2](https://github.com/posquit0/Awesome-CV) (current)**
